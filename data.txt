@@ -1,1 +1,3 @@
-[]
+- path: my_conn
+  name: my_conn
+  type: conn_open

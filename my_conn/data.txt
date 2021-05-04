@@ -1,0 +1,7 @@
+path:
+- code.rds
+- data.rds
+columns:
+  host: RSQLite
+  type: SQLiteConnection
+type: conn_open
